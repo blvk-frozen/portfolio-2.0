@@ -1,0 +1,42 @@
+body{
+  background-color: darkcyan;
+}
+nav{
+  text-align: center;
+  padding: 60px;
+  border :2px dashed blue;
+  font-size:50px;
+  background-color: rgb(211, 211, 226);    
+  text-decoration:none;
+  
+}
+img{
+  float: right;
+}
+#home{
+  border: 1px solid black;
+  padding-bottom: 600px;
+  background-color: cornflowerblue;
+  margin: 20px;
+}
+.text{
+  padding-top: 20%;
+  font-size: xx-large;
+}
+#about {
+  border: 1px solid black;
+  padding-bottom: 600px;
+  background-color: cornflowerblue;
+  margin: 20px;
+  font-size: xx-large;
+}
+#projects{
+  border: 1px solid black;
+  padding-bottom: 600px;
+  background-color: cornflowerblue;
+  margin: 20px;
+  font-size: xx-large;
+}
+footer{
+  text-align: center;
+}
